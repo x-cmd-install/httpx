@@ -5,7 +5,7 @@ about:
   head: b5addb6
   archived: false
   latestVersion: "0.28.1"
-  collectedAt: 2026-09-08T01:39:23Z
+  collectedAt: 2026-09-08T04:25:09Z
 timeline:
   created: 2019-04-04
   lastCommit: 2026-02-23
@@ -13,7 +13,7 @@ timeline:
 popularity:
   star: 15468
   watcher: 147
-  fork: 1281
+  fork: 1282
   release: 51
   contributor: 234
   pullRequest: 1805
@@ -80,7 +80,7 @@ total:
   commit: 1523
 ---
 path: /home/runner/.x-repo/github.com/encode/httpx
-collectedAt: 2026-09-08T01:39:25Z
+collectedAt: 2026-09-08T04:25:11Z
 loc:
   Python:
     code: 14025

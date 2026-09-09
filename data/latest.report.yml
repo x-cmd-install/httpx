@@ -7,7 +7,7 @@ about:
   latestVersion: "0.28.1"
   latestRelease: "0.28.1"
   latestPrerelease: "1.0.0.beta0"
-  collectedAt: 2026-09-09T04:29:42Z
+  collectedAt: 2026-09-09T18:39:09Z
 timeline:
   created: 2019-04-04
   lastCommit: 2026-02-23
@@ -16,8 +16,8 @@ timeline:
   lastPrerelease: 2021-09-14
 popularity:
   star: 15470
-  watcher: 147
-  fork: 1282
+  watcher: 148
+  fork: 1284
   release: 51
   contributor: 234
   pullRequest: 1805
@@ -84,7 +84,7 @@ total:
   commit: 1523
 ---
 path: /home/runner/.x-repo/github.com/encode/httpx
-collectedAt: 2026-09-09T04:29:47Z
+collectedAt: 2026-09-09T18:39:12Z
 loc:
   Python:
     code: 14025

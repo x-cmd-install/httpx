@@ -4,7 +4,7 @@
 
 A next generation HTTP client for Python. 🦋
 
-![httpx](https://repo.x-cmd.io/httpx.svg)
+![httpx](https://repo.x-cmd.io/httpx.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install httpx
 
 - **最新版本**: `0.28.1` (2024-12-06)
 - **最近提交**: 2026-02-23
-- **发布时间**: 2024-12-06T15:36:24Z
 
 ## 流行度
 
-- **Star**: 15,470 · **Fork**: 1,285 · **开放 issue**: 0 · **贡献者**: 234
+- **Star**: 15,472 · **Fork**: 1,285 · **开放 issue**: 0 · **贡献者**: 234
 
 ## 累计统计
 
@@ -71,4 +70,4 @@ httpx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:29:59Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:07:10Z._

@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,472 · **Forks**: 1,286 · **Open issues**: 0 · **Contributors**: 234
+- **Stars**: 15,474 · **Forks**: 1,286 · **Open issues**: 0 · **Contributors**: 234
 
 ## Totals (cumulative)
 
@@ -66,7 +66,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/httpx). **4** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/httpx). **5** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for httpx lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:28:34Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:42:08Z._

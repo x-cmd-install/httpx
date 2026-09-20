@@ -4,7 +4,7 @@
 
 A next generation HTTP client for Python. 🦋
 
-![httpx](https://repo.x-cmd.io/httpx.svg)
+[![x-cmd/install — httpx Code Quality Monitoring Repo Card](https://repo.x-cmd.io/httpx.svg)](https://x-cmd.com/install/httpx)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,495 · **Forks**: 1,445 · **Open issues**: 925 · **Contributors**: 234
+- **Stars**: 15,502 · **Forks**: 1,682 · **Open issues**: 925 · **Contributors**: 234
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 1295 · **Open PRs**: 77 · **Closed issues**: 860 · **Open issues**: 65 · **Commits**: 1523
+- **Releases**: 51 · **Merged PRs**: 1295 · **Open PRs**: 76 · **Closed issues**: 861 · **Open issues**: 64 · **Commits**: 1523
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 0 | 7 | 44 | 0 | 9 | 5 |
-| last720d | 2024-09-28 | 2 | 64 | 64 | 38 | 36 | 55 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 0 | 7 | 43 | 0 | 9 | 5 |
+| last720d | 2024-09-30 | 2 | 64 | 63 | 39 | 35 | 55 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for httpx lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:31:47Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:54:32Z._

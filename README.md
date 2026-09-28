@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,513 · **Forks**: 2,333 · **Open issues**: 925 · **Contributors**: 234
+- **Stars**: 15,517 · **Forks**: 2,460 · **Open issues**: 925 · **Contributors**: 234
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-02 | 0 | 6 | 42 | 0 | 9 | 5 |
-| last720d | 2024-10-07 | 2 | 63 | 63 | 38 | 35 | 54 |
+| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-03 | 0 | 6 | 42 | 0 | 9 | 4 |
+| last720d | 2024-10-08 | 2 | 62 | 63 | 38 | 34 | 54 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for httpx lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:11:03Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:12:43Z._

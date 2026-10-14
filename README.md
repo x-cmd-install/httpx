@@ -30,9 +30,9 @@ Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,640 · **Forks**: 3,818 · **Open issues**: 925 · **Contributors**: 234
+- **Stars**: 15,651 · **Forks**: 3,999 · **Open issues**: 925 · **Contributors**: 234
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-16 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-10-18 | 0 | 4 | 41 | 0 | 8 | 3 |
-| last720d | 2024-10-23 | 2 | 59 | 63 | 36 | 30 | 54 |
+| 30d | 2026-09-14 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-15 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-16 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-04-17 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-10-19 | 0 | 4 | 41 | 0 | 8 | 3 |
+| last720d | 2024-10-24 | 2 | 58 | 63 | 35 | 29 | 53 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for httpx lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:41:30Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:43:31Z._

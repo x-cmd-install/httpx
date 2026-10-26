@@ -1,3 +1,14 @@
+- repo: nix_stable_25_11
+  srcname: httpx
+  visiblename: httpx
+  version: 1.7.2
+  origversion: null
+  status: outdated
+  summary: Fast and multi-purpose HTTP toolkit
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: httpx
@@ -50,22 +61,22 @@
     - MIT
 - repo: blackarch
   srcname: httpx
-  binname: httpx
-  visiblename: httpx
-  version: v1.11.0.r17.gd3b9d3d
-  origversion: 1:v1.11.0.r17.gd3b9d3d-1
+  binname: httpx-debug
+  visiblename: httpx-debug
+  version: v1.11.0.r40.gd3f78b1
+  origversion: 1:v1.11.0.r40.gd3f78b1-1
   status: outdated
-  summary: A fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library.
+  summary: Detached debugging symbols for httpx
   licenses:
     - MIT
 - repo: blackarch
   srcname: httpx
-  binname: httpx-debug
-  visiblename: httpx-debug
-  version: v1.7.4.r187.g43cf616
-  origversion: 1:v1.7.4.r187.g43cf616-1
+  binname: httpx
+  visiblename: httpx
+  version: v1.11.0.r40.gd3f78b1
+  origversion: 1:v1.11.0.r40.gd3f78b1-1
   status: outdated
-  summary: Detached debugging symbols for httpx
+  summary: A fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library.
   licenses:
     - MIT
 - repo: freebsd
@@ -147,17 +158,6 @@
     - mail@fabian-affolter.ch
   licenses:
     - MIT
-- repo: nix_stable_25_11
-  srcname: httpx
-  visiblename: httpx
-  version: 1.7.2
-  origversion: null
-  status: outdated
-  summary: Fast and multi-purpose HTTP toolkit
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: httpx
   visiblename: httpx
@@ -197,7 +197,7 @@
   binname: httpx
   visiblename: security/httpx
   version: 1.8.1
-  origversion: 1.8.1nb10
+  origversion: 1.8.1nb11
   status: outdated
   summary: HTTP toolkit that allows running multiple probes
   maintainers:

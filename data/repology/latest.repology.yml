@@ -1,21 +1,10 @@
-- repo: nix_stable_25_11
-  srcname: httpx
-  visiblename: httpx
-  version: 1.7.2
-  origversion: null
-  status: outdated
-  summary: Fast and multi-purpose HTTP toolkit
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: httpx
   binname: httpx
   visiblename: httpx
   version: 1.12.0
-  origversion: 1.12.0-r0
+  origversion: 1.12.0-r1
   status: newest
   summary: A fast and multi-purpose HTTP toolkit that allows running multiple probes.
   maintainers:
@@ -28,7 +17,7 @@
   binname: httpx-doc
   visiblename: httpx-doc
   version: 1.12.0
-  origversion: 1.12.0-r0
+  origversion: 1.12.0-r1
   status: newest
   summary: A fast and multi-purpose HTTP toolkit that allows running multiple probes. (documentation)
   maintainers:
@@ -61,22 +50,22 @@
     - MIT
 - repo: blackarch
   srcname: httpx
-  binname: httpx-debug
-  visiblename: httpx-debug
-  version: v1.11.0.r40.gd3f78b1
-  origversion: 1:v1.11.0.r40.gd3f78b1-1
+  binname: httpx
+  visiblename: httpx
+  version: v1.11.0.r59.gbab476e
+  origversion: 1:v1.11.0.r59.gbab476e-1
   status: outdated
-  summary: Detached debugging symbols for httpx
+  summary: A fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library.
   licenses:
     - MIT
 - repo: blackarch
   srcname: httpx
-  binname: httpx
-  visiblename: httpx
-  version: v1.11.0.r40.gd3f78b1
-  origversion: 1:v1.11.0.r40.gd3f78b1-1
+  binname: httpx-debug
+  visiblename: httpx-debug
+  version: v1.11.0.r59.gbab476e
+  origversion: 1:v1.11.0.r59.gbab476e-1
   status: outdated
-  summary: A fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library.
+  summary: Detached debugging symbols for httpx
   licenses:
     - MIT
 - repo: freebsd
@@ -151,6 +140,17 @@
   srcname: httpx
   visiblename: httpx
   version: 1.7.0
+  origversion: null
+  status: outdated
+  summary: Fast and multi-purpose HTTP toolkit
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: httpx
+  visiblename: httpx
+  version: 1.7.2
   origversion: null
   status: outdated
   summary: Fast and multi-purpose HTTP toolkit

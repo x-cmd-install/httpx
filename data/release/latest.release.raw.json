@@ -43,8 +43,8 @@
   "body": "## 0.28.1 (6th December, 2024)\r\n\r\n* Fix SSL case where `verify=False` together with client side certificates.",
   "reactions": {
     "url": "https://api.github.com/repos/encode/httpx/releases/188917449/reactions",
-    "total_count": 16,
-    "+1": 12,
+    "total_count": 17,
+    "+1": 13,
     "-1": 0,
     "laugh": 0,
     "hooray": 3,

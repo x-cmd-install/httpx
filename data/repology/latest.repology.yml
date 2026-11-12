@@ -73,7 +73,7 @@
   binname: httpx
   visiblename: www/httpx
   version: 1.6.10
-  origversion: 1.6.10_15
+  origversion: 1.6.10_16
   status: outdated
   summary: Multi-purpose HTTP toolkit
   maintainers:
@@ -209,7 +209,7 @@
   binname: httpx
   visiblename: security/httpx
   version: 1.12.0
-  origversion: 1.12.0nb2
+  origversion: 1.12.0nb3
   status: newest
   summary: HTTP toolkit that allows running multiple probes
   maintainers:

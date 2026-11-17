@@ -14,13 +14,13 @@ x install httpx
 
 ## Code insight
 
-Total: **24,093** lines of code across **73** files in the top 5 languages.
+Total: **24,094** lines of code across **73** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 14,025 | 567 | 3,161 | 60 |
 | Json | 9,746 | 0 | 0 | 1 |
-| Toml | 112 | 1 | 19 | 1 |
+| Toml | 113 | 2 | 19 | 1 |
 | Sh | 103 | 11 | 34 | 10 |
 | Yaml | 56 | 0 | 5 | 1 |
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.28.1` (2024-12-06)
-- **Last commit**: 2026-02-23
+- **Last commit**: 2026-11-16
 
 ## Popularity
 
-- **Stars**: 15,798 · **Forks**: 1,924 · **Open issues**: 925 · **Contributors**: 234
+- **Stars**: 15,799 · **Forks**: 1,977 · **Open issues**: 925 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 1295 · **Open PRs**: 72 · **Closed issues**: 861 · **Open issues**: 64 · **Commits**: 1523
+- **Releases**: 51 · **Merged PRs**: 1299 · **Open PRs**: 77 · **Closed issues**: 862 · **Open issues**: 63 · **Commits**: 1527
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 0 | 2 | 31 | 0 | 6 | 3 |
-| last720d | 2024-11-26 | 2 | 37 | 57 | 30 | 26 | 32 |
+| 30d | 2026-10-18 | 0 | 4 | 2 | 0 | 0 | 4 |
+| last60d | 2026-09-18 | 0 | 4 | 2 | 0 | 0 | 4 |
+| 90d | 2026-08-19 | 0 | 4 | 2 | 0 | 0 | 4 |
+| last180d | 2026-05-21 | 0 | 4 | 2 | 0 | 0 | 4 |
+| 360d | 2025-11-22 | 0 | 6 | 36 | 1 | 5 | 7 |
+| last720d | 2024-11-27 | 2 | 41 | 62 | 31 | 25 | 36 |
 
 ## Distribution status
 
@@ -83,4 +83,4 @@ Install metadata for httpx lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:11:22Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:12:32Z._

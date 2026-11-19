@@ -26,13 +26,13 @@ x install httpx
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.9 / 10**
+总评分: **5.5 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install httpx
 
 ## 流行度
 
-- **Star**: 15,799 · **Fork**: 1,977 · **开放 issue**: 925 · **贡献者**: 235
+- **Star**: 15,804 · **Fork**: 2,011 · **开放 issue**: 925 · **贡献者**: 235
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 1299 · **开放 PR**: 77 · **已关闭 issue**: 862 · **开放 issue**: 63 · **提交数**: 1527
+- **发布数**: 51 · **已合并 PR**: 1299 · **开放 PR**: 81 · **已关闭 issue**: 862 · **开放 issue**: 63 · **提交数**: 1527
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 4 | 2 | 0 | 0 | 4 |
-| last60d | 2026-09-18 | 0 | 4 | 2 | 0 | 0 | 4 |
-| 90d | 2026-08-19 | 0 | 4 | 2 | 0 | 0 | 4 |
-| last180d | 2026-05-21 | 0 | 4 | 2 | 0 | 0 | 4 |
-| 360d | 2025-11-22 | 0 | 6 | 36 | 1 | 5 | 7 |
-| last720d | 2024-11-27 | 2 | 41 | 62 | 31 | 25 | 36 |
+| 30d | 2026-10-20 | 0 | 4 | 7 | 0 | 0 | 4 |
+| last60d | 2026-09-20 | 0 | 4 | 7 | 0 | 0 | 4 |
+| 90d | 2026-08-21 | 0 | 4 | 7 | 0 | 0 | 4 |
+| last180d | 2026-05-23 | 0 | 4 | 7 | 0 | 0 | 4 |
+| 360d | 2025-11-24 | 0 | 6 | 40 | 1 | 4 | 7 |
+| last720d | 2024-11-29 | 1 | 38 | 65 | 30 | 24 | 33 |
 
 ## 发行版状态
 
@@ -83,4 +83,4 @@ httpx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T08:12:32Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:12:03Z._

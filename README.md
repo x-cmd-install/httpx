@@ -26,13 +26,13 @@ Total: **24,094** lines of code across **73** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.9 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,799 · **Forks**: 1,977 · **Open issues**: 925 · **Contributors**: 235
+- **Stars**: 15,804 · **Forks**: 2,011 · **Open issues**: 925 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 1299 · **Open PRs**: 77 · **Closed issues**: 862 · **Open issues**: 63 · **Commits**: 1527
+- **Releases**: 51 · **Merged PRs**: 1299 · **Open PRs**: 81 · **Closed issues**: 862 · **Open issues**: 63 · **Commits**: 1527
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 4 | 2 | 0 | 0 | 4 |
-| last60d | 2026-09-18 | 0 | 4 | 2 | 0 | 0 | 4 |
-| 90d | 2026-08-19 | 0 | 4 | 2 | 0 | 0 | 4 |
-| last180d | 2026-05-21 | 0 | 4 | 2 | 0 | 0 | 4 |
-| 360d | 2025-11-22 | 0 | 6 | 36 | 1 | 5 | 7 |
-| last720d | 2024-11-27 | 2 | 41 | 62 | 31 | 25 | 36 |
+| 30d | 2026-10-20 | 0 | 4 | 7 | 0 | 0 | 4 |
+| last60d | 2026-09-20 | 0 | 4 | 7 | 0 | 0 | 4 |
+| 90d | 2026-08-21 | 0 | 4 | 7 | 0 | 0 | 4 |
+| last180d | 2026-05-23 | 0 | 4 | 7 | 0 | 0 | 4 |
+| 360d | 2025-11-24 | 0 | 6 | 40 | 1 | 4 | 7 |
+| last720d | 2024-11-29 | 1 | 38 | 65 | 30 | 24 | 33 |
 
 ## Distribution status
 
@@ -83,4 +83,4 @@ Install metadata for httpx lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:12:32Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:12:02Z._

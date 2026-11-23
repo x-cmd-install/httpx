@@ -1,25 +1,59 @@
-- repo: stalix
-  srcname: bin/httpx
-  binname: bin/httpx
-  visiblename: bin/httpx
+- repo: homebrew
+  srcname: httpx
+  visiblename: httpx
+  version: 1.12.0
+  origversion: null
+  status: newest
+  summary: Fast and multi-purpose HTTP toolkit
+- repo: homebrew
+  srcname: httpx
+  visiblename: httpx
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Fast and multi-purpose HTTP toolkit
+- repo: gentoo_ovl_pentoo
+  srcname: net-analyzer/httpx
+  visiblename: net-analyzer/httpx
   version: 1.12.0
   origversion: null
   status: newest
   maintainers:
-    - anton@samokhvalov.xyz
+    - unknown@pentoo.ch
   categories:
-    - bin
-- repo: stalix_dev
-  srcname: bin/httpx
-  binname: bin/httpx
-  visiblename: bin/httpx
-  version: 1.12.0
+    - net-analyzer
+- repo: nix_stable_25_05
+  srcname: httpx
+  visiblename: httpx
+  version: 1.7.0
   origversion: null
-  status: newest
+  status: outdated
+  summary: Fast and multi-purpose HTTP toolkit
   maintainers:
-    - anton@samokhvalov.xyz
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: gentoo_ovl_pentoo
+  srcname: net-analyzer/httpx
+  visiblename: net-analyzer/httpx
+  version: 1.11.0
+  origversion: null
+  status: legacy
+  maintainers:
+    - unknown@pentoo.ch
   categories:
-    - bin
+    - net-analyzer
+- repo: nix_stable_25_11
+  srcname: httpx
+  visiblename: httpx
+  version: 1.7.2
+  origversion: null
+  status: outdated
+  summary: Fast and multi-purpose HTTP toolkit
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: httpx
@@ -72,22 +106,22 @@
     - MIT
 - repo: blackarch
   srcname: httpx
-  binname: httpx
-  visiblename: httpx
-  version: v1.11.0.r90.g9b6d807
-  origversion: 1:v1.11.0.r90.g9b6d807-1
+  binname: httpx-debug
+  visiblename: httpx-debug
+  version: v1.11.0.r140.g200e6ff
+  origversion: 1:v1.11.0.r140.g200e6ff-1
   status: outdated
-  summary: A fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library.
+  summary: Detached debugging symbols for httpx
   licenses:
     - MIT
 - repo: blackarch
   srcname: httpx
-  binname: httpx-debug
-  visiblename: httpx-debug
-  version: v1.11.0.r90.g9b6d807
-  origversion: 1:v1.11.0.r90.g9b6d807-1
+  binname: httpx
+  visiblename: httpx
+  version: v1.11.0.r140.g200e6ff
+  origversion: 1:v1.11.0.r140.g200e6ff-1
   status: outdated
-  summary: Detached debugging symbols for httpx
+  summary: A fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library.
   licenses:
     - MIT
 - repo: freebsd
@@ -102,40 +136,6 @@
     - dutra@freebsd.org
   categories:
     - www
-- repo: gentoo_ovl_pentoo
-  srcname: net-analyzer/httpx
-  visiblename: net-analyzer/httpx
-  version: 1.12.0
-  origversion: null
-  status: newest
-  maintainers:
-    - unknown@pentoo.ch
-  categories:
-    - net-analyzer
-- repo: gentoo_ovl_pentoo
-  srcname: net-analyzer/httpx
-  visiblename: net-analyzer/httpx
-  version: 1.11.0
-  origversion: null
-  status: legacy
-  maintainers:
-    - unknown@pentoo.ch
-  categories:
-    - net-analyzer
-- repo: homebrew
-  srcname: httpx
-  visiblename: httpx
-  version: 1.12.0
-  origversion: null
-  status: newest
-  summary: Fast and multi-purpose HTTP toolkit
-- repo: homebrew
-  srcname: httpx
-  visiblename: httpx
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Fast and multi-purpose HTTP toolkit
 - repo: nix_stable_24_05
   srcname: httpx
   visiblename: httpx
@@ -151,28 +151,6 @@
   srcname: httpx
   visiblename: httpx
   version: 1.6.9
-  origversion: null
-  status: outdated
-  summary: Fast and multi-purpose HTTP toolkit
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: httpx
-  visiblename: httpx
-  version: 1.7.0
-  origversion: null
-  status: outdated
-  summary: Fast and multi-purpose HTTP toolkit
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: httpx
-  visiblename: httpx
-  version: 1.7.2
   origversion: null
   status: outdated
   summary: Fast and multi-purpose HTTP toolkit
@@ -238,3 +216,25 @@
     - leot@netbsd.org
   categories:
     - security
+- repo: stalix
+  srcname: bin/httpx
+  binname: bin/httpx
+  visiblename: bin/httpx
+  version: 1.12.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/httpx
+  binname: bin/httpx
+  visiblename: bin/httpx
+  version: 1.12.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin

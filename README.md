@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,845 · **Forks**: 2,031 · **Open issues**: 925 · **Contributors**: 235
+- **Stars**: 15,852 · **Forks**: 2,009 · **Open issues**: 925 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 1299 · **Open PRs**: 93 · **Closed issues**: 862 · **Open issues**: 63 · **Commits**: 1527
+- **Releases**: 51 · **Merged PRs**: 1299 · **Open PRs**: 95 · **Closed issues**: 862 · **Open issues**: 63 · **Commits**: 1527
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 4 | 19 | 0 | 0 | 4 |
-| last60d | 2026-09-25 | 0 | 4 | 19 | 0 | 0 | 4 |
-| 90d | 2026-08-26 | 0 | 4 | 19 | 0 | 0 | 4 |
-| last180d | 2026-05-28 | 0 | 4 | 19 | 0 | 0 | 4 |
-| 360d | 2025-11-29 | 0 | 6 | 52 | 1 | 3 | 7 |
-| last720d | 2024-12-04 | 1 | 34 | 77 | 26 | 24 | 30 |
+| 30d | 2026-10-26 | 0 | 4 | 21 | 0 | 0 | 4 |
+| last60d | 2026-09-26 | 0 | 4 | 21 | 0 | 0 | 4 |
+| 90d | 2026-08-27 | 0 | 4 | 21 | 0 | 0 | 4 |
+| last180d | 2026-05-29 | 0 | 4 | 21 | 0 | 0 | 4 |
+| 360d | 2025-11-30 | 0 | 6 | 54 | 1 | 3 | 7 |
+| last720d | 2024-12-05 | 1 | 34 | 79 | 26 | 24 | 29 |
 
 ## Distribution status
 
@@ -83,4 +83,4 @@ Install metadata for httpx lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:45:29Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:15:15Z._

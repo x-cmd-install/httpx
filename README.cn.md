@@ -32,7 +32,7 @@ x install httpx
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install httpx
 
 ## 流行度
 
-- **Star**: 15,852 · **Fork**: 2,009 · **开放 issue**: 925 · **贡献者**: 235
+- **Star**: 15,860 · **Fork**: 2,007 · **开放 issue**: 925 · **贡献者**: 235
 
 ## 累计统计
 
@@ -57,22 +57,12 @@ x install httpx
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 4 | 21 | 0 | 0 | 4 |
-| last60d | 2026-09-26 | 0 | 4 | 21 | 0 | 0 | 4 |
-| 90d | 2026-08-27 | 0 | 4 | 21 | 0 | 0 | 4 |
-| last180d | 2026-05-29 | 0 | 4 | 21 | 0 | 0 | 4 |
-| 360d | 2025-11-30 | 0 | 6 | 54 | 1 | 3 | 7 |
-| last720d | 2024-12-05 | 1 | 34 | 79 | 26 | 24 | 29 |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/httpx) 上共有 **22** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.12.0` | ✅ latest |
-| Nix unstable | `1.12.0` | ✅ latest |
-| Alpine edge | `1.12.0` | ✅ latest |
+| 30d | 2026-10-27 | 0 | 4 | 21 | 0 | 0 | 4 |
+| last60d | 2026-09-27 | 0 | 4 | 21 | 0 | 0 | 4 |
+| 90d | 2026-08-28 | 0 | 4 | 21 | 0 | 0 | 4 |
+| last180d | 2026-05-30 | 0 | 4 | 21 | 0 | 0 | 4 |
+| 360d | 2025-12-01 | 0 | 6 | 53 | 1 | 3 | 7 |
+| last720d | 2024-12-06 | 1 | 34 | 79 | 26 | 24 | 29 |
 
 ## 改进这些数据
 
@@ -83,4 +73,4 @@ httpx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:15:16Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:40:33Z._

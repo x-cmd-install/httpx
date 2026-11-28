@@ -7,7 +7,7 @@ about:
   latestVersion: "0.29.0"
   latestRelease: "0.29.0"
   latestPrerelease: "1.0.0.beta0"
-  collectedAt: 2026-11-27T08:08:49Z
+  collectedAt: 2026-11-28T07:34:57Z
 timeline:
   created: 2019-04-04
   lastCommit: 2026-11-26
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-11-26
   lastPrerelease: 2021-09-14
 popularity:
-  star: 15863
+  star: 15865
   watcher: 170
-  fork: 2014
+  fork: 1981
   release: 52
   contributor: 235
-  pullRequest: 1842
+  pullRequest: 1845
   issue: 925
 language:
   Python: 570031
@@ -28,63 +28,63 @@ language:
 totalBytes: 572852
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 6
-    openPR: 28
+    openPR: 31
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 6
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 1
     mergedPR: 6
-    openPR: 28
+    openPR: 31
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 6
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 1
     mergedPR: 6
-    openPR: 28
+    openPR: 31
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 6
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 1
     mergedPR: 6
-    openPR: 28
+    openPR: 31
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 6
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 1
     mergedPR: 8
-    openPR: 60
+    openPR: 63
     closedIssue: 1
     openIssue: 3
-    commit: 0
+    commit: 9
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 1
     mergedPR: 36
-    openPR: 85
+    openPR: 88
     closedIssue: 25
     openIssue: 24
     commit: 30
 total:
   release: 52
   mergedPR: 1301
-  openPR: 101
+  openPR: 104
   closedIssue: 862
   openIssue: 63
   commit: 1529
 ---
 path: /home/runner/.x-repo/github.com/encode/httpx
-collectedAt: 2026-11-27T08:08:51Z
+collectedAt: 2026-11-28T07:34:58Z
 loc:
   Python:
     code: 14025
